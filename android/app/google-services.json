@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318946570199",
+    "project_id": "shatayushi-farms",
+    "storage_bucket": "shatayushi-farms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318946570199:android:ced209adf51ea1cf2e6592",
+        "android_client_info": {
+          "package_name": "com.shatayushifarms.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318946570199-fdbfmgvgl67fqghn2dppjdk3v19mvmps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-BWLiVqxYIaglXfV0XXEPRl1ukso0l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318946570199-fdbfmgvgl67fqghn2dppjdk3v19mvmps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
